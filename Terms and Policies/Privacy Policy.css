@@ -1,0 +1,40 @@
+* {
+    font-family: 'Outfit', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#Privacy-policy {
+    margin: 0 auto;
+    width: 85%;
+}
+
+.wrapper h2 {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 35px;
+}
+
+.wrapper .intro {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.wrapper h3 {
+    margin: 20px 0;
+}
+
+.wrapper h4 {
+    margin: 20px 0;
+}
+
+.wrapper ol {
+    margin-left: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.wrapper p {
+    margin-bottom: 15px;
+}
